@@ -3,7 +3,7 @@
 
 # 結果画像
 
-![第2回の結果](<img width="1919" height="1199" alt="第二回_結果" src="https://github.com/user-attachments/assets/a1ea21e1-b9ee-4617-a9e7-4c0621e44fe6" />)
+![第2回の結果](???.png)
 - 工夫した点：xxx
 
 # 進め方
